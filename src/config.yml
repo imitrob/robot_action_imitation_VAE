@@ -1,0 +1,27 @@
+n_latents: 12
+obj: elbo
+optimizer: adam
+batch_size: 1
+replay: 1
+replay_samples: 8
+ordered: 0
+lr: 1e-4
+k: 10
+epochs: 5
+loss: l1
+viz_freq: 10
+exp_name: incremental01
+pre_trained:
+seed: 1
+enc_layers: 1
+enc_heads: 4
+enc_ff: 2048
+dec_layers: 1
+dec_heads: 4
+dec_ff: 2048
+modality_1:
+  encoder: Transformer
+  decoder: Transformer
+  feature_dim: [33, 1, 4]
+  path: ./dataset/traindata
+  testdata: ./dataset/testdata 
