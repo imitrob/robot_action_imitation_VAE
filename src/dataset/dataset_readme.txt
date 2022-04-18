@@ -12,8 +12,4 @@ Left Arm and Right Arm Direction
 
 Left Hand and Right Hand Open 
 - again a binary value which tells whether the robot should open or close it's hand. 0 is for the closed hand, 100 is for an open hand. 
-<<<<<<< HEAD
  
-=======
-  
->>>>>>> 40232226a4c294ccd10f6952d8c52201beff30b9
