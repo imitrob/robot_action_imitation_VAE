@@ -24,7 +24,11 @@ modality_1:
   decoder: Transformer
   feature_dim: [33, 1, 4]
   path: ./dataset/traindata
+<<<<<<< HEAD
   testdata: ./dataset/testdata
 
 
 
+=======
+  testdata: ./dataset/testdata 
+>>>>>>> 40232226a4c294ccd10f6952d8c52201beff30b9
