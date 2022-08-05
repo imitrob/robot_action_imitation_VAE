@@ -5,7 +5,7 @@ Supplementary code for the paper submitted to ICDL 2022 "Feedback-Driven Increme
 The goal of this project is to create a few-shot incremental learning framework with Pepper robot in which it can learn to perform arm movements based on human demonstrations and natural language descriptions/labels. The model used is a sequential VAE.
 
 The library used for pose detection is a Pytorch implementation of Openpose ([link here](https://github.com/Hzzone/pytorch-openpose)).
-We detect positions of human arms and count angles between each two joints on each arm. We also detect whether the hand is closed or open (Pepper cannot move individual fingers). These values are then used for robot control. 
+We detect positions of human arms and count angles between each two joints on each arm. We also detect whether the hand is closed or open (Pepper cannot move individual fingers). These values are then used for robot control.   
 For Pepper control, we use a modification of the [Pepper Controller](https://github.com/incognite-lab/Pepper-Controller).
 
 
