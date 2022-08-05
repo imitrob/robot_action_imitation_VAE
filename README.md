@@ -1,5 +1,7 @@
 Supplementary code for the paper submitted to ICDL 2022 "Feedback-Driven Incremental Imitation Learning Using Sequential VAE".
 
+Link to the [video](https://www.youtube.com/watch?v=DEfvUAwfLpc&t=6s)
+
 # Pepper Imitation VAE
 
 The goal of this project is to create a few-shot incremental learning framework with Pepper robot in which it can learn to perform arm movements based on human demonstrations and natural language descriptions/labels. The model used is a sequential VAE.
