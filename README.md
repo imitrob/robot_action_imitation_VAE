@@ -1,4 +1,4 @@
-Supplementary code for the paper submitted to ICDL 2022 "Feedback-Driven Incremental Imitation Learning Using Sequential VAE". [paper](https://paperhost.org/proceedings/ras/ICDL22/files/0072.pdf)
+Supplementary code for the paper submitted to ICDL 2022 "Feedback-Driven Incremental Imitation Learning Using Sequential VAE" [paper](https://paperhost.org/proceedings/ras/ICDL22/files/0072.pdf)
 
 Link to the [video](https://www.youtube.com/watch?v=DEfvUAwfLpc&t=6s)
 
